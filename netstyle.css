@@ -1,0 +1,40 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    border-radius: 170px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+.left{
+    height: 300px;
+    width: 100px;
+    background-color:rgb(229, 9, 20) ;
+    position: fixed;
+    border-top-left-radius:25px ;
+    border-bottom-left-radius:25px ;
+    left: 100px;
+    top: 100px;
+}
+.middle{
+    height: 300px;
+    width: 100px;
+    background-color:rgb(229, 9, 20) ;
+    position: fixed;
+    left: 200px;
+    top: 100px;
+    rotate: -37deg;
+   
+}
+
+.right{
+    height: 300px;
+    width: 100px;
+    background-color:rgb(229, 9, 20) ;
+    position: fixed;
+    left: 300px;
+    top: 100px;
+    border-top-right-radius:25px ;
+    border-bottom-right-radius:25px ;
+}
